@@ -1,3 +1,5 @@
+This code is associated with the paper from Clark et al., "Topologically correct synthetic reconstruction of pathogen social behavior found during Yersinia growth in deep tissue sites". eLife, 2020. http://doi.org/10.7554/eLife.58106
+
 # droplet
 MATLAB code for microcolony droplets
 
